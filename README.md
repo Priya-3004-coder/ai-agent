@@ -6,6 +6,9 @@
 
 ## 🎯 Overview
 An AI-powered resume screening agent that automatically ranks and scores resumes based on job descriptions. The agent uses semantic similarity and LLM-based analysis to match candidate profiles with job requirements, providing detailed scoring and reasoning for each resume.
+## 🌐 Live Demo
+
+**Try it now:** [YOUR_STREAMLIT_URL_HERE](YOUR_STREAMLIT_URL_HERE)
 
 ## Features
 - **Semantic Resume Matching**: Uses vector embeddings to find semantic similarities between resumes and job descriptions
