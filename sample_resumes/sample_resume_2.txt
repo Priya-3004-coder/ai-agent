@@ -1,0 +1,31 @@
+JANE SMITH
+Full Stack Developer
+jane.smith@email.com | (555) 987-6543
+
+SUMMARY
+Creative Full Stack Developer with 3 years of experience in web development. 
+Proficient in JavaScript, React, and Node.js. Passionate about creating 
+user-friendly applications and learning new technologies.
+
+SKILLS
+- Frontend: React, Vue.js, HTML5, CSS3, Bootstrap
+- Backend: Node.js, Express.js, Python (basic)
+- Databases: MySQL, MongoDB
+- Tools: Git, npm, Webpack
+
+EXPERIENCE
+
+Full Stack Developer | Digital Agency | Mar 2021 - Present
+- Developed responsive web applications using React and Node.js
+- Created RESTful APIs with Express.js
+- Worked with MySQL databases
+- Collaborated with designers and clients
+
+Junior Web Developer | Freelance | Jan 2020 - Feb 2021
+- Built websites for small businesses
+- Maintained WordPress sites
+- Basic Python scripting
+
+EDUCATION
+Associate Degree in Web Development
+Community College | 2019
